@@ -1,0 +1,6 @@
+Processing request of type ListToolsRequest
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+Session initialized
+The result of \(54 + 2 \times 3\) is \(60\).
